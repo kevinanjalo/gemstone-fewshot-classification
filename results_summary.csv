@@ -1,0 +1,4 @@
+Model,Accuracy,95% CI,Training Data for Novel Classes
+"Standard CNN (base classes, val)",0.6883,—,None (never saw novel)
+Standard CNN (novel classes — unseen),0.0071,—,None (never saw novel)
+"Prototypical Network (5-way 5-shot, novel)",0.8294,± 0.0132,5 images per class
