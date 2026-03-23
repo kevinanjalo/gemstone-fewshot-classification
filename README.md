@@ -84,13 +84,3 @@ The Standard CNN completely fails on unseen novel classes (0.7%), confirming tha
 
 ---
 
-## Citation
-
-If you use this code or results, please cite:
-
-```
-[Group Member Names] (2026). Few-Shot Gemstone Classification: A Comparative Study 
-of Standard CNN and Prototypical Networks. DS402.3 Neural Networks Assignment, 
-[University Name].
-GitHub: https://github.com/<your-username>/gemstone-fewshot-classification
-```
